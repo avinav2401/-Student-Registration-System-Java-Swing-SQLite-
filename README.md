@@ -45,7 +45,8 @@ StudentManagement/
 <img width="1097" height="541" alt="image" src="https://github.com/user-attachments/assets/601333e8-3aff-40ed-bf86-32c3ade87bfb" />
 <img width="1112" height="542" alt="image" src="https://github.com/user-attachments/assets/a24d1fa8-b9a4-4cc2-9115-141d442b05d5" />
 <img width="738" height="642" alt="image" src="https://github.com/user-attachments/assets/d7dab8fe-6bef-4a96-87b1-05a3a715ebce" />
-![Uploading image.png…]()
+<img width="722" height="635" alt="image" src="https://github.com/user-attachments/assets/e5f04cf8-2dd4-4a20-8185-fb71b03e3533" />
+
 
 
 
